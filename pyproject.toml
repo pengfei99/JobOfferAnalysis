@@ -7,6 +7,9 @@ authors = ["pengfei <liu.pengfei@hotmail.fr>"]
 [tool.poetry.dependencies]
 python = "^3.8"
 api-offres-emploi = "^0.0.1"
+pandas = "^1.0.5"
+pyarrow = "^6.0.0"
+s3fs = "2021.10.1"
 
 [tool.poetry.dev-dependencies]
 
